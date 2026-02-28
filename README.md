@@ -1,0 +1,1 @@
+This is a gmd file editor for the game geometry dash.
